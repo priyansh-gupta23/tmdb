@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Gilroy light;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+   
+.Background{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+   /* margin-top: 2%;
+   margin-left: 2%; */
+}
+
+#name {
+    position: relative;
+    top: 10%;
+    font-family: Gilroy ExtraBold;
+    left: 30%;
+}
+
+#Tname {
+    position: relative;
+    top: 10%;
+    font-family: Gilroy light;
+    left: 30%;
+}
+
+#singletrailer {
+    position: absolute;
+    margin-top: 1%;
+    top: 90%;
+    text-decoration: none;
+    left: 8%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: antiquewhite;
+}
+
+#Rdate {
+    position: relative;
+    top: -63%;
+    font-family: Gilroy ExtraBold;
+    left: 30%;
+}
+
+#Circle {
+    position: absolute;
+    top: 42%;
+    left: 30%;
+    width: 5%;
+    height: 5%;
+}
+
+#Over {
+    width: 50vmax;
+    /* background-color: blue; */
+    position: relative;
+    top: -54%;
+    font-family: Gilroy light;
+    left: 30%;
+}
+
+#Stat {
+    position: relative;
+    top: -66%;
+    font-family: Gilroy light;
+    left: 30%;
+}
+
+#Gen {
+    position: relative;
+    top: -54%;
+    font-family: Gilroy ExtraBold;
+    left: 30%;
+}
+
+#back {
+    opacity: 0.5;
+}
+
+#poster {
+    width: 22vmax;
+    border-radius: 10px;
+}
